@@ -1,5 +1,5 @@
 # food-app-UI using Figma
-Design Link:
+Design Link: https://www.figma.com/design/Olm4ZUa71rU0RtvULpeD3R/Khana-Khazana?node-id=0-1&t=YdMypWKvUmMPR5Uw-1
 
 A comprehensive Figma design system for the FoodFusion application, showcasing UI/UX implementation and interactive prototyping.
 This project translates my existing Angular-based food delivery application into a structured Figma design to demonstrate modern interface design principles.
