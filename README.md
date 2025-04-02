@@ -1,16 +1,18 @@
 # food-app-UI using Figma
 Design Link: https://www.figma.com/design/Olm4ZUa71rU0RtvULpeD3R/Khana-Khazana?node-id=0-1&t=YdMypWKvUmMPR5Uw-1
 
-A comprehensive Figma design system for the FoodFusion application, showcasing UI/UX implementation and interactive prototyping.
-This project translates my existing Angular-based food delivery application into a structured Figma design to demonstrate modern interface design principles.
+It is a user-friendly and visually appealing food ordering application designed using Figma. The interface provides seamless navigation and an intuitive experience for users to browse cuisines, place orders, and provide feedback.
 
-Key Features:
-1. Comprehensive User Flow: Designed interactive prototypes for the entire user journey
-2. Component-Based Design: Implemented reusable components for consistent visual language
-3. Design Variables: Established design tokens for colors, typography, and spacing to maintain design consistency
-4. 9-Category Food Selection: Intuitive cuisine categorization system with visual hierarchy
-5. User Authentication: Clean, user-friendly login and signup screens
-6. Interactive Rating System: Simple yet engaging rating interface with confirmation experience
-7. Shopping Cart Experience: Thoughtfully designed cart interaction and checkout flow
+Features
+1. Main Page: Displays a variety of food items with categories for easy selection and a carousel.
+2. Login & Signup Pages: Simple and clean authentication pages for user access.
+3. Cuisine Page: Showcases different cuisines with images and options to explore.
+4. Cart Page: Allows users to review their selected items before placing an order.
+5. Rating Page: Collects user feedback with a rating system.
+6. Thank You Page: Displays a confirmation message after submiting a successful feedback.
+7. Image Carousel: Interactive image slider to showcase popular dishes.
 
-This project demonstrates my ability to create cohesive design systems while translating existing web applications into structured Figma designs, highlighting both technical implementation and user-centered design thinking.
+Navigation Flow
+The design ensures a smooth user journey, with clear navigation from browsing food items to checkout. Various interactions are mapped to provide an engaging experience.
+
+The FoodApp UI provides a clean and user-friendly design for food ordering. It ensures smooth navigation and a great user experience, making it ready for future development.
