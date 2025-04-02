@@ -1,5 +1,5 @@
 # food-app-UI using Figma
-Design Link: https://www.figma.com/design/Olm4ZUa71rU0RtvULpeD3R/Khana-Khazana?node-id=0-1&t=YdMypWKvUmMPR5Uw-1
+Design Link: https://www.figma.com/design/Olm4ZUa71rU0RtvULpeD3R/Khana-Khazana?node-id=104-16&t=9gHYvNz7dKg0T4w8-1
 
 It is a user-friendly and visually appealing food ordering application designed using Figma. The interface provides seamless navigation and an intuitive experience for users to browse cuisines, place orders, and provide feedback.
 
